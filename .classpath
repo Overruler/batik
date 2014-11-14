@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<!--
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry excluding="org/apache/batik/script/jacl/**|org/apache/batik/script/jpython/**|**/.svn/" kind="src" path="sources"/>
 	<classpathentry excluding="**/.svn/" kind="src" path="test-sources"/>
@@ -12,4 +13,5 @@
 	<classpathentry excluding="**/.svn/" kind="src" path="test-resources"/>
 	<classpathentry kind="lib" path="lib/xalan-2.6.0.jar"/>
 	<classpathentry kind="output" path="classes"/>
+-->
 </classpath>
